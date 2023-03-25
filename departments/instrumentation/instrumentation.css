@@ -62,3 +62,21 @@
     transition: all .5s;
 }
 
+.footer
+{
+    border: 2px solid rgb(75, 75, 75);
+    background-color: rgb(44, 44, 44);
+    color: white;
+    border-radius: 5px;
+    padding: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: large;
+    font-style: italic;
+    position: fixed;
+    bottom: 0;
+    width: 92.7%;
+}
